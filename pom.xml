@@ -12,7 +12,7 @@
 	<artifactId>globalSolution2</artifactId>
 	<version>1.0.0</version>
 	<name>globalSolution2</name>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<description>Projeto da GS2</description>
 	<properties>
 		<java.version>11</java.version>
